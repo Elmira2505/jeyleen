@@ -1,0 +1,7 @@
+.headerContent{
+	display: flex;
+	justify-content: space-between;
+	color: pink;
+	border: 1px solid red;
+
+}
